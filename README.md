@@ -9,6 +9,12 @@ Nothing here is production code.
 - `tests/test_greet.py` — unittest coverage for it.
 - `TASKS.md` — a few small, self-contained chores to hand the agent.
 
+## Usage
+
+```sh
+python3 greet.py 鱼  # prints 你好，鱼！
+```
+
 ## Run the tests
 
 ```sh
