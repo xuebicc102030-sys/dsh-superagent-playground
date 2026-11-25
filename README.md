@@ -1,5 +1,8 @@
 # dsh-superagent playground
 
+A hands-on playground for following a `dsh-superagent` agent run from the first
+commit to the last check.
+
 A tiny sandbox repository for smoke-testing the `dsh-superagent` research prototype.
 Nothing here is production code.
 
